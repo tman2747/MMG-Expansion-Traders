@@ -1,0 +1,52 @@
+{
+    "m_Version": 9,
+    "DisplayName": "MMG Chest Rigs",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "mmg_chestrig_green",
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 15,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "mmg_chestrig_black",
+                "mmg_chestrig_tan",
+				"mmg_chestrig_erdl",
+				"mmg_chestrig_multicam",
+				"mmg_chestrig_multicamblack",
+				"mmg_chestrig_alpine",
+				"mmg_chestrig_dark_woodland",
+				"mmg_chestrig_ucp",
+				"mmg_chestrig_multicam_tropic"
+            ]
+        },
+		{
+            "ClassName": "MMG_tt_vest_black",
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 15,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_tt_vest_green",
+                "MMG_tt_vest_tan",
+				"MMG_tt_vest_mutlicam",
+				"MMG_tt_vest_alpine",
+				"MMG_tt_vest_erdl",
+				"MMG_tt_vest_multicamblack",
+				"MMG_tt_vest_dark_woodland",
+				"MMG_tt_vest_ucp",
+				"MMG_tt_vest_police",
+				"MMG_tt_vest_multicam_tropic"
+            ]
+        }
+    ]
+}
