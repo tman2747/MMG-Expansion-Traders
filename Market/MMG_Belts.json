@@ -7,10 +7,10 @@
     "Items": [
         {
             "ClassName": "MMG_falcon_b1_belt_black",
-            "MaxPriceThreshold": 30,
-            "MinPriceThreshold": 15,
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 300,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 250,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],

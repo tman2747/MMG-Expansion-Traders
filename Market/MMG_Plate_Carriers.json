@@ -7,8 +7,8 @@
     "Items": [
         {
             "ClassName": "MMG_JPC_Vest_Black",
-            "MaxPriceThreshold": 30,
-            "MinPriceThreshold": 15,
+            "MaxPriceThreshold": 600,
+            "MinPriceThreshold": 600,
             "SellPricePercent": -1,
             "MaxStockThreshold": 250,
             "MinStockThreshold": 1,
@@ -26,10 +26,32 @@
 				"MMG_JPC_Vest_dark_woodland"
             ]
         },
+		{
+            "ClassName": "MMG_tt_vest_black",
+            "MaxPriceThreshold": 600,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_tt_vest_green",
+                "MMG_tt_vest_tan",
+				"MMG_tt_vest_mutlicam",
+				"MMG_tt_vest_alpine",
+				"MMG_tt_vest_erdl",
+				"MMG_tt_vest_multicamblack",
+				"MMG_tt_vest_dark_woodland",
+				"MMG_tt_vest_ucp",
+				"MMG_tt_vest_police",
+				"MMG_tt_vest_multicam_tropic"
+            ]
+        },
         {
             "ClassName": "MMG_MK_III_Armor_black",
-            "MaxPriceThreshold": 30,
-            "MinPriceThreshold": 15,
+            "MaxPriceThreshold": 800,
+            "MinPriceThreshold": 800,
             "SellPricePercent": -1,
             "MaxStockThreshold": 250,
             "MinStockThreshold": 1,
@@ -49,8 +71,8 @@
         },
         {
             "ClassName": "MMG_MK_V_Armor_black",
-            "MaxPriceThreshold": 30,
-            "MinPriceThreshold": 15,
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 250,
             "MinStockThreshold": 1,

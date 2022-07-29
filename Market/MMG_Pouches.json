@@ -7,8 +7,8 @@
     "Items": [
         {
             "ClassName": "MMG_Mag_Pouch_Black",
-            "MaxPriceThreshold": 30,
-            "MinPriceThreshold": 15,
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 300,
             "SellPricePercent": -1,
             "MaxStockThreshold": 250,
             "MinStockThreshold": 1,
@@ -28,8 +28,8 @@
         },
         {
             "ClassName": "MMG_double_magpouch_black",
-            "MaxPriceThreshold": 30,
-            "MinPriceThreshold": 15,
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 300,
             "SellPricePercent": -1,
             "MaxStockThreshold": 250,
             "MinStockThreshold": 1,
@@ -49,8 +49,8 @@
         },
         {
             "ClassName": "MMG_triple_magpouch_multicam_tropic",
-            "MaxPriceThreshold": 30,
-            "MinPriceThreshold": 15,
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 200,
             "SellPricePercent": -1,
             "MaxStockThreshold": 250,
             "MinStockThreshold": 1,
@@ -70,8 +70,8 @@
         },
         {
             "ClassName": "MMG_Med_Pouch_black",
-            "MaxPriceThreshold": 30,
-            "MinPriceThreshold": 15,
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 300,
             "SellPricePercent": -1,
             "MaxStockThreshold": 250,
             "MinStockThreshold": 1,
@@ -90,8 +90,8 @@
         },
         {
             "ClassName": "MMG_ammo_pouch_black",
-            "MaxPriceThreshold": 30,
-            "MinPriceThreshold": 15,
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 300,
             "SellPricePercent": -1,
             "MaxStockThreshold": 250,
             "MinStockThreshold": 1,
@@ -111,8 +111,8 @@
         },
         {
             "ClassName": "MMG_tactical_pouch_tan",
-            "MaxPriceThreshold": 30,
-            "MinPriceThreshold": 15,
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 300,
             "SellPricePercent": -1,
             "MaxStockThreshold": 250,
             "MinStockThreshold": 1,
@@ -132,8 +132,8 @@
         },
 		{
             "ClassName": "MMG_mk5_utility_pouch_black",
-            "MaxPriceThreshold": 30,
-            "MinPriceThreshold": 15,
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 300,
             "SellPricePercent": -1,
             "MaxStockThreshold": 250,
             "MinStockThreshold": 1,
@@ -153,8 +153,8 @@
         },
 		{
             "ClassName": "MMG_mk5_grenade_pouch_black",
-            "MaxPriceThreshold": 30,
-            "MinPriceThreshold": 15,
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 300,
             "SellPricePercent": -1,
             "MaxStockThreshold": 250,
             "MinStockThreshold": 1,

@@ -7,8 +7,8 @@
     "Items": [
         {
             "ClassName": "MMG_combatshirt_black",
-            "MaxPriceThreshold": 30,
-            "MinPriceThreshold": 15,
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
             "SellPricePercent": -1,
             "MaxStockThreshold": 250,
             "MinStockThreshold": 1,
@@ -29,8 +29,8 @@
         },
         {
             "ClassName": "MMG_operatorshirt_black",
-            "MaxPriceThreshold": 30,
-            "MinPriceThreshold": 15,
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 200,
             "SellPricePercent": -1,
             "MaxStockThreshold": 250,
             "MinStockThreshold": 1,
@@ -50,8 +50,8 @@
         },
         {
             "ClassName": "MMG_tactical_shirt_black",
-            "MaxPriceThreshold": 30,
-            "MinPriceThreshold": 15,
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
             "SellPricePercent": -1,
             "MaxStockThreshold": 250,
             "MinStockThreshold": 1,

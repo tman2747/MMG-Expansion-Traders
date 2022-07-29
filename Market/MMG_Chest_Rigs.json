@@ -7,10 +7,10 @@
     "Items": [
         {
             "ClassName": "mmg_chestrig_green",
-            "MaxPriceThreshold": 30,
-            "MinPriceThreshold": 15,
+            "MaxPriceThreshold": 75,
+            "MinPriceThreshold": 75,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 250,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
@@ -24,28 +24,6 @@
 				"mmg_chestrig_dark_woodland",
 				"mmg_chestrig_ucp",
 				"mmg_chestrig_multicam_tropic"
-            ]
-        },
-		{
-            "ClassName": "MMG_tt_vest_black",
-            "MaxPriceThreshold": 30,
-            "MinPriceThreshold": 15,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 250,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-                "MMG_tt_vest_green",
-                "MMG_tt_vest_tan",
-				"MMG_tt_vest_mutlicam",
-				"MMG_tt_vest_alpine",
-				"MMG_tt_vest_erdl",
-				"MMG_tt_vest_multicamblack",
-				"MMG_tt_vest_dark_woodland",
-				"MMG_tt_vest_ucp",
-				"MMG_tt_vest_police",
-				"MMG_tt_vest_multicam_tropic"
             ]
         }
     ]
