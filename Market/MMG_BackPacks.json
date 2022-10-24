@@ -88,6 +88,27 @@
 				"MMG_camelback_ucp",
 				"MMG_camelback_multicam_tropic"
             ]
+        },
+        {
+            "ClassName": "MMG_mmps_bag_black",
+            "MaxPriceThreshold": 1750,
+            "MinPriceThreshold": 1750,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_mmps_bag_tan",
+                "MMG_mmps_bag_green",
+				"MMG_mmps_bag_multicamblack",
+				"MMG_mmps_bag_multicam",
+				"MMG_mmps_bag_erdl",
+				"MMG_mmps_bag_alpine",
+				"MMG_mmps_bag_dark_woodland",
+				"MMG_mmps_bag_ucp",
+				"MMG_mmps_bag_multicam_tropic"
+            ]
         }
     ]
 }
