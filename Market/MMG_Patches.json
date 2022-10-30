@@ -4,5 +4,39 @@
     "Icon": "Deliver",
     "Color": "FBFCFEFF",
     "InitStockPercent": 75.0,
-    "Items": []
+    "Items": [
+    {
+    "ClassName": "MMG_patch_rubber_mex",
+    "MaxPriceThreshold": 50,
+    "MinPriceThreshold": 50,
+    "SellPricePercent": -1,
+    "MaxStockThreshold": 1,
+    "MinStockThreshold": 1,
+    "QuantityPercent": -1,
+    "SpawnAttachments": [],
+    "Variants": []
+},
+{
+    "ClassName": "MMG_patch_rubber_por",
+    "MaxPriceThreshold": 50,
+    "MinPriceThreshold": 50,
+    "SellPricePercent": -1,
+    "MaxStockThreshold": 1,
+    "MinStockThreshold": 1,
+    "QuantityPercent": -1,
+    "SpawnAttachments": [],
+    "Variants": []
+},
+{
+    "ClassName": "MMG_patch_rubber_wales",
+    "MaxPriceThreshold": 50,
+    "MinPriceThreshold": 50,
+    "SellPricePercent": -1,
+    "MaxStockThreshold": 1,
+    "MinStockThreshold": 1,
+    "QuantityPercent": -1,
+    "SpawnAttachments": [],
+    "Variants": []
+}
+]
 }
