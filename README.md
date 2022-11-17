@@ -9,5 +9,8 @@ Feel free to contribute to this repo as new items are added.
 
 Yo whats up its Zeskos!
 
+
+
+coding and pushing to main line 14
 #### Hey zeskos!
 Just wanted to let you know this isnt the spot to say whats up
