@@ -109,6 +109,27 @@
 				"MMG_mmps_bag_ucp",
 				"MMG_mmps_bag_multicam_tropic"
             ]
+        },
+	{
+            "ClassName": "MMG_mmps_bag_atacs_black",
+            "MaxPriceThreshold": 1750,
+            "MinPriceThreshold": 1750,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_mmps_bag_atacs_tan",
+                "MMG_mmps_bag_atacs_green",
+				"MMG_mmps_bag_atacs_multicamblack",
+				"MMG_mmps_bag_atacs_multicam",
+				"MMG_mmps_bag_atacs_erdl",
+				"MMG_mmps_bag_atacs_alpine",
+				"MMG_mmps_bag_atacs_dark_woodland",
+				"MMG_mmps_bag_atacs_ucp",
+				"MMG_mmps_bag_atacs_multicam_tropic"
+            ]
         }
     ]
 }
